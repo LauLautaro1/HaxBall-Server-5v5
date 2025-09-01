@@ -1,0 +1,17 @@
+{
+  "name": "♦️​5 V 5 - BELLAVISTA♦️​",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/haxball-headless-browser": "^0.4.0",
+    "haxball.js": "^3.2.1"
+  }
+}
